@@ -7,6 +7,9 @@ categories:
 new page!!
 `JAYNA`
 
+cool picture of dog!!
+![dog](/assets/cloutDog.jpg)
+
 Jekyll requires blog post files to be named according to the following format:
 
 
