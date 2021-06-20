@@ -8,16 +8,37 @@ new page!!
 `JAYNA`
 
 dog picture:
-![dog]({{site.baseurl}}/images/brownDog.jpg)
+![dog]({{site.baseurl}}/images/brownDog.jpg# thumbnail)
 
-Jekyll requires blog post files to be named according to the following format:
 
+*Jekyll requires blog post files to be named* according to the following format:
+# heading 1 #
+insert text Where
+
+## heading 2 things ##
+more text here
+
+trying to block quote text now:
+>“In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move"
+
+different type of header??
+-------------------------
+
+* red
+* orange
+* yellow
+
+***
+
+1. Hello
+2. goodbye
+3. list
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
 Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
-Jekyll also offers powerful support for code snippets:
+<div align="center">Jekyll also offers powerful support for code snippets:</div>
 
 {% highlight ruby %}
 def print_hi(name)
