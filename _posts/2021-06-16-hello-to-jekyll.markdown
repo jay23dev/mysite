@@ -8,7 +8,10 @@ new page!!
 `JAYNA`
 
 dog picture:
-![dog]({{site.baseurl}}/images/brownDog.jpg# thumbnail)
+![dog]({{site.baseurl}}/images/brownDog.jpg)
+
+trial of the same image:
+<img src = "{{site.baseurl}}/images/brownDog.jpg" alt="dog" height="200" width="300"> where does this text go can there be multiple and formatted or not?
 
 
 *Jekyll requires blog post files to be named* according to the following format:
