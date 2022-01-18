@@ -3,6 +3,7 @@ layout: post
 title:  "Hello to Jekyll!"
 date:   2021-06-16 13:44:12 -0700
 categories:
+permalink: /hello-to-jekyll/
 ---
 new page!!
 `JAYNA`

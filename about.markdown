@@ -9,9 +9,12 @@ dog picture:
 ![dog]({{site.baseurl}}/images/cloutDog.jpg)
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-[post?]({{site.baseurl}}/_posts/2021-06-16-hello-to-jekyll.markdown)
+<!---
+hopefully this is a comment - links should be urls not file paths
+-->
+[post?]({{site.baseurl}}/hello-to-jekyll/)
 
-[post 2?]({{site.baseurl}}/trial_post.markdown)
+[post 2?]({{site.baseurl}}/trial-post/)
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /

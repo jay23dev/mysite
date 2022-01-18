@@ -1,6 +1,6 @@
 ---
 title: trial posts
-permalink: trial-posts/
+permalink: /trial-post/
 layout: page
 ---
 
